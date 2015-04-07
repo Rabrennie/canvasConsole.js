@@ -1,6 +1,8 @@
 # canvasConsole.js
 canvasConsole.js is a simple library to add a console to your canvas.
 
+the tilde/hash key opens the console.
+
 ####[Live Example](http://rabrennie.github.io/canvasConsole/)
 
 ####Functions:
